@@ -11,3 +11,5 @@ Lorsque label=0, les données de l'échantillon décrivent un phénomène de fon
 Lorsque label=1, les données de l'échantillon décrivent un signal produit par un boson de Higgs.
 
 Le problème à résoudre est le suivant : discriminer un échantillon pour savoir s'il est produit par un boson de Higgs ou simplemement un phénomène de fond. C'est un problème de classification.
+
+Mots-clés utilisés : classification, feature/target, feature engineering, corrélation, hyperparamètre, cross-validation, training-testing dataset
